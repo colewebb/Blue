@@ -1,2 +1,1 @@
-# Blue
- 
+﻿# Blue What if your projects were objects? - Launch programs (including scripts, .exes, UWPs, UWAs, and so on - Quickly move between projects - Git compatibility (use git for versioning, backups, commits etc.) - Improve language support for build.ps1 (add python, bash, PS support) - More useful dir command - Linux support - Run from Windows Terminal
